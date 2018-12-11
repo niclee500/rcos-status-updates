@@ -1,2 +1,1 @@
-This week I was researching the components of a seven segment display. I was drawing several circuit 
-diagrams that pertained to the Frequency detection project and my seven segment display.
+This week I was researching the components of a seven segment display. I was drawing several circuit diagrams that pertained to the Frequency detection project and my seven segment display. These circuit diagrams are displayed on our project's Trello page, and is very simple to follow. In addition to the circuit diagram, I also wrote up a Pin-out form which describes all the necessary initializations for the Microcontroller
