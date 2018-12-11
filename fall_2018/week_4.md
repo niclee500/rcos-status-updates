@@ -1,2 +1,2 @@
 This week I focused my coming up with new ideas to branch off of the Frequency Detection Project. I am thinking of 
-creating a hardware component which converts the analog input to a seven segment display. 
+creating a hardware component which converts the analog input to a seven segment display. This would ultimately be done with the use of a microcontroller, which would receive a voltage to the EVB, and have 8 output lines from the EVB to power the seven segment display. This would make reading the output of the frequency board much easier for the user as opposed to determining the frequency strength from an LED.
