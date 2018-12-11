@@ -1,3 +1,1 @@
-This week I will be writing the pseudo code and hardware diagram for the output of the board.
-This will act as a "commit" for the club as it will greatly benefit me in understanding the general
-schematic of the board design.
+This week I will be writing the pseudo code and hardware diagram for the output of the board. This will act as a "commit" for the club as it will greatly benefit me in understanding the general schematic of the board design. Right now, there is a finished circuit diagram and pinout form which will be used for the C code. Also, I started writing up some code in C which can be seen on the Trello page/Project Githum which will be used for the analog conversion part.
