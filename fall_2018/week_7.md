@@ -1,2 +1,1 @@
-This week, I was researching more about the parts I need for the project.
-I was thinking about using an LCD instead of a seven segment display for convenience.
+This week, I was researching more about the parts I need for the project. I was thinking about using an LCD instead of a seven segment display for convenience. If I were to use an LCD, I would need to make more initializations in the C code to include the serial management bus (as part of the C8051 microcontroller). This would take more time as it needs to be called from the I2C. I think the best bet right now is to make sure it works with the seven segment display, and only then I will test it using the LCD.
