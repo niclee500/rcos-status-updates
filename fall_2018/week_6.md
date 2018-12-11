@@ -1,3 +1,2 @@
-For this week I looked at the parts that we need to build an output system for the Frequency Detection Project.
-I was thinking about whether or not to measure the strength of the frequency or the distance the frequency is
-from the source of the board.
+For this week I looked at the parts that we need to build an output system for the Frequency Detection Project. I was thinking about whether or not to measure the strength of the frequency or the distance the frequency is from the source of the board. The main challenge here is to determine how the frequency strength will be measured, since the frequency is measured in pulses. Due to this, the reading on the seven segment display will be pulsed and harder to read. I need to figure out how to solve this issue before I could go further.
+
