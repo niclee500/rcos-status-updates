@@ -1,3 +1,1 @@
-For this week, I wrote up a circuit diagram that involved a 5 volt buffer, a 7-segment
-display, and a microcontroller. The circuit writeup was fairly simple; the hard part coming next
-involves the code write up.
+For this week, I wrote up a circuit diagram that involved a 5 volt buffer, a 7-segment display, and a microcontroller. The circuit writeup was fairly simple; the hard part coming next involves the code write up. Now that we have a working prototype for the frequency board, I can work on the analog conversion test for the board which measures the voltage drop across the LED. I believe that the hardware diagram will not be difficult at all; the software write up will just take time. Also, we need to find more parts which will satisfy the test for the board.
