@@ -1,2 +1,1 @@
-For this week, I was researching more about Frequency Detection. I was thinking about different
-devices frequency detection can be applied to.
+For this week, I was researching more about Frequency Detection. I was thinking about different devices frequency detection can be applied to. For example, if we were to branch off from cellphone frequencies, I believe that we could do more research into Wifi detection, Radio frequency detection, microwave detection, etc. This would definitely be something to talk about in the upcoming presentation for this semester.
