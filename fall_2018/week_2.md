@@ -1,2 +1,1 @@
-For this week, I was reading more on the circuitry used in the Passive Cell phone detection project.
-I was looking at Analog Discovery output and different parts of hardware.
+For this week, I was reading more on the circuitry used in the Passive Cell phone detection project. I was looking at Analog Discovery output and different parts of hardware. One challenge I had was trying to find the necessary parts to build a new kind of frequency detection board to replace the old, obsolete one. I think the best way to get parts would be to order them online, or find them in various labs such as the JEC labs. If they can't be found on campus, they shouldn't be too expensive to buy.
