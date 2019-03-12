@@ -3,7 +3,8 @@ Last week we finished the implementation of the Catan game. Now, we are moving o
 I learned about very different playstyles and how it can be implemented into a Catan AI.
 
 ## This Week’s Plan
-This week I plan to follow along with the potential AI Ishita is proposing for the project.
+This week I plan to follow along with the potential AI Ishita is proposing for the project. Also, I will be debugging and error testing
+Justin's "completed" Catan game. We already found a bug where the Robber implementation does not allow a player to steal from a player.
 
 ## Anything Blocking?
 Nothing at the moment.
