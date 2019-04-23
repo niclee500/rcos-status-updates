@@ -1,0 +1,13 @@
+## Last Week’s Accomplishments
+Last week I took most of my time trying to get more information from collegues about generating AI for boardgames. Since Justin
+and Ishita are taking different approaches and there is not much more for me to test (since they are still in developing phases), I want to
+attempt to create my own AI
+
+## This Week’s Plan
+This week I will create sample bots that will play the game itself, so the game can test itself on its own without a player actually
+playing the game. This will speed up the process of debugging.
+
+## Anything Blocking?
+Nothing at the moment.
+
+## Notes
