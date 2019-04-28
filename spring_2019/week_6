@@ -1,9 +1,12 @@
 ## Last Week’s Accomplishments
 Last week I worked on debugging the prototype AI used to make the game. This mainly involved functions regarding chance and statistics.
+I also worked with Justin and Ishita in figuring out their AI model in regards to statistics and implementation in our Catan game. 
+I also tried to research more into our peer's (people we talked to about Catan AI) work regarding to board game AI.
 
 ## This Week’s Plan
 This week I focused on working on the AI with Justin and Ishita and attempt to create a predesignated win condition for the Catan game
-to play against their AI's
+to play against their AI's. In addition to this, I'm trying to make code that runs the game for me without me having to debug it after every move.
+This way debugging will be easier.
 
 ## Anything Blocking?
 Nothing at the moment.
