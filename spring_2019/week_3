@@ -1,5 +1,7 @@
 ## Last Week’s Accomplishments
-This week I implemented some pseudo code to test the Longest Road feature. I am not quite done with it/know if it will work, but I will test it over the break
+This week I implemented some pseudo code to test the Longest Road feature. I am not quite done with it/know if it will work, 
+but I will test it over the break. Also, I thought more about which functions I want to unit test to make sure Catan actually functions.
+I will focus on the core functions of the game such as trading, building, and settling.
 
 ## This Week’s Plan
 Over the break, I want to keep working on the Longest Road of Catan to make sure that it works for all corner cases of road designs. Another goal I have in mind
